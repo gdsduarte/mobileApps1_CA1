@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Mobile Apps 1</string>
+    <string name="guilherme_duarte">Guilherme Duarte</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="gdsduarte">gdsduarte</string>
+    <string name="education">Education</string>
+    <string name="skills">Skills</string>
+    <string name="achievements">Achievements</string>
+    <string name="exit">Exit</string>
+    <string name="c_2023_your_name_all_rights_reserved">(c) 2023 Your name. All rights reserved.</string>
+    <string name="education2">Education</string>
+    <string name="achievements2">Achievements</string>
+    <string name="skills2">Skills</string>
+    <string name="education3">Education</string>
 </resources>
